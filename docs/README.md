@@ -6,3 +6,4 @@ Contents:
 
 datadict/ - <dataset> FDM Data Dictionary files
 
+DevelopmentNotes/ - <dataset> Notesused during developoment of the FDM from source
