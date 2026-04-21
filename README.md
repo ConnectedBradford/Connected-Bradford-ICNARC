@@ -6,6 +6,9 @@ This is the Connected Bradford ICNARC care GitHub page where you can find a summ
 
 # CB_FDM_ICNARC
 
+> [!WARNING]  
+> THIS information is out of date and subject to review. (20/04/2026)
+> 
 Contains the scripts and documentation for the Intensive Care National Audit & Research Centre (ICNARC) FDM
 
 It contains approximately 13,000 patients. The dataset has been fully anonymised, but can link to other FDM's.
@@ -16,6 +19,8 @@ CB_FDM_ICNARC - build date 2023-05-15 - data up to 2019-10-22
 
 
 # ICNARC
+
+
 The ICNARC FDM is made up of 2 source tables (summarised below and data dictionaries linked) from routinely collected data for 13,936  individuals and their routinely collected clinical data. 
 
 The dates relevant for the latest build are: 2002-07-21	to 2019-10-22
